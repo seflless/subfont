@@ -1,0 +1,19 @@
+{
+  "name": "subfont",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "Francois",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/subset-font": "^1.4.3",
+    "ts-node": "^10.9.2"
+  },
+  "dependencies": {
+    "subset-font": "^2.3.0"
+  }
+}
